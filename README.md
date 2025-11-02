@@ -3,7 +3,7 @@
 **Python + Playwright** tool for sending messages in bulk via **WhatsApp Web**.
 
 ### 📦 Overview
-- Internal-use automation tool — provided *as-is* without guarantees.  
+- Internal-use automation tool, provided *as-is* without guarantees.  
 - Uses **WhatsApp Web** to send text messages automatically to a list of recipients.  
 - Currently supports **text-only messages** (no images, videos, or file attachments yet).  
 - Community **contributions and improvements are welcome**.
@@ -18,7 +18,7 @@
 ### 🧩 Files
 - `send_whatsapp_playwright.py` → main script.  
 - `Send.bat` → automatically installs **Python** (if missing) and dependencies before execution.  
-- `requirements.txt` / `dipendenze.txt` → dependency list (`playwright`).
+- `requirements.txt` → dependency list (`playwright`).
 
 ### 🧠 Notes
 - On first run, a browser window will open — scan the QR code to log in to WhatsApp Web.  
