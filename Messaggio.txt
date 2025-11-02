@@ -1,0 +1,3 @@
+Ciao!
+Questo è un messaggio di test.
+Verrà inviato a tutti i destinatari contenuti in "Destinatari.txt"

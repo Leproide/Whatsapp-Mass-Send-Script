@@ -1,0 +1,3 @@
+# Dependencies for send_whatsapp_playwright.py
+# Install with: python -m pip install -r requirements.txt
+playwright
